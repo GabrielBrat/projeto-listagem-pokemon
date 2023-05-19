@@ -1,6 +1,7 @@
 const botaoAlterarTema = document.getElementById("botao-alterar-tema");
 const body = document.querySelector("body");
 const imagemBotaoTrocaDeTema = document.querySelector(".imagem-botao");
+const gifFundoDia = document.querySelector(".imagem-botao");
 
 // arrow function (função de seta "=>").
 botaoAlterarTema.addEventListener("click", () => {
